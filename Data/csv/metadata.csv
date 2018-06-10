@@ -1,0 +1,30 @@
+Filename,Album,Singer,Duration,Tonic,Raga,segment_size,Duration(sec),no of segment,Raga class
+./wave/Ali_Meri_Kaun_Sune_-_Khayal_Vilambhit_In_Ektal_00f54612-09f6-4528-91f1-95e5ef191c1b.wav,Classical_encounter,Girija Devi,27:46,212.988555908,Raag Puria Dhanashri,30,1666,111,0
+./wave/Are_Lalju_Ab_Tum_Kahey_Baat_Banawat_6acdbda5-8c44-4dd4-8aea-dc024c7f65b6.wav,Rasan_piya_vol_4,Abdul Rashid Khan,30:45,99.8114471436,Raga Bhairav,30,1845,123,1
+./wave/Bandish_In_Drut_Teentaal_-_Raag_Jog_c02f714f-e4e6-4da6-af07-cea8a03c0e5c.wav,Devataa,Jasraj,16:33,131.763290405,Raag Jog,30,993,66,2
+./wave/Des_c8724201-ecfd-44be-af53-5f436564d062.wav,Khayalnuma,Ulhas Kashalkar,6:54,160.409255981,Raga Desh,30,414,27,3
+./wave/Dhundhan_Jaun_and_Shyam_Murari_Banwari_8e4f28ea-6a4c-4bae-a4df-4b9af14e1bb4.wav,Rajan_ke_sartaj,Jasraj,27:42,142.880691528,Raag Puriya,30,1662,110,7
+./wave/Dir_Tana_Dir-Dir_Ta-Dir_Tarana_52c68301-d913-4208-adc6-c2cf8d2003d3.wav,Rasan_piya_vol_4,Abdul Rashid Khan,8:1,99.8114471436,Raga Bhairav,30,481,32,1
+./wave/Laagun_Re_Junaiyan_Tere_Paiyan_eb7fce60-8232-44ee-ad0a-571bb15003fb.wav,Rasan_piya_vol_2,Abdul Rashid Khan,6:59,99.8114471436,Raag Khamaj,30,419,27,6
+./wave/Magwa_Pe_Rokey_Thharo_Ree_8718d4df-5fcb-419f-b209-5d34b2474a28.wav,Rasan_piya_vol_4,Abdul Rashid Khan,8:48,138.005615234,Raga Bhairav,30,528,35,1
+./wave/Malana_Gungh_Lao_Is_Banre_Kay_Se_Sehara_3956d76d-876b-4e34-a6dd-c8ecfc057ff8.wav,Rasan_piya_vol_4,Abdul Rashid Khan,29:34,138.005615234,Raga Bhairav,30,1774,118,1
+./wave/Mohe_Manavan_Aaya_and_Na_Daro_Rang_c6dfc5f0-34cb-4d1e-90a0-712a845beb38.wav,Swarprabha,Prabhakar Karekar,26:6,99.8114471436,Raag Bagashree,30,1566,104,9
+./wave/Paar_Karo_Araj_Suno_6939b1dc-2646-41df-a741-095bfad3360f.wav,Evergreen,Bhimsen joshi,13:56,156.7394104,Raag Puria Dhanashri,30,836,55,0
+./wave/Pratham_Man_Nirankar_Devan_Man_Mahadev_30408242-719e-4efb-a72d-fc1dc2833db7.wav,Rasan_piya_vol_4,Abdul Rashid Khan,8:30,138.005615234,Raag Bhairav,30,510,33,1
+./wave/Raag_Bageshree_897f4174-24be-493a-be1c-57fd3c018601.wav,Bhairavi_Bhajan,Satyasheel Deshpande,41:9,209.323440552,Raag Bagashree,30,2469,164,12
+./wave/Raga_Ahir_Bhairav_-_Rasiya_Mhara_Mharoji_b31c1429-f99f-481c-9a0e-cb2d2f99ac84.wav,The_great_heritage,Hirabai barodekar,5:41,99.8114471436,Raga Ahir Bhairav,30,341,22,13
+./wave/Raga_Bageshri_c12784d9-c5d7-4883-adae-8140551480c4.wav,Hindustani_vocal,Mukul shivaputra bhanumatey,28:33,158.563720703,Raag Bagashree,30,1713,114,12
+./wave/Raga_Basant_c853d66a-7f61-42ef-8373-94798bde90a6.wav,Malhar,Gauri pathare,14:57,220.512405396,Raag Basant,30,897,59,15
+./wave/Raga_Basant_Piya_Sang_Kheloon_3d6dc834-550d-4eb5-87f9-6e57747f3cb1.wav,Masterworks,Rasjid khan,7:21,142.880691528,Raag Basant Piya,30,441,29,16
+./wave/Raga_Bhageshri_6cb0fc24-76bf-48a8-8a45-8552b70127ea.wav,Shraddhanjali,Jagdish Prasad,18:11,99.8114471436,Raag Bhageshri,30,1091,72,17
+./wave/Raga_Bhoopali_dd42bbc9-4ec1-4881-81df-8b6813d460cf.wav,The_great_heritage,Ghulam Ali khan,24:0,140.42199707,Raag Bhoopali,30,1440,95,18
+./wave/Raga_Hamsadhwani-Tarana_In_Drut_Teental_66dcff23-bcf4-4a32-82fb-e6bb679c0d5d.wav,Sadhana,Rajan Mishra,4:37,99.8114471436,Raag Hamsadhwani,30,277,18,19
+./wave/Raga_Madhuvanti_211c010f-7ae5-4ca6-a909-f10afed265c5.wav,A_day _with Jasraj,Jasraj,29:5,140.42199707,Raag Maduhubvanti,30,1745,111,20
+./wave/Raga_Madhuvanti_Alap_c1aba7b7-cd7a-4e6c-90e7-798b617bfdc9.wav,Pure,kaushiki Chakrabarty,2:51,233.647384644,Raag Maduhubvanti_alap,30,171,11,21
+./wave/Raga_Malkauns_-_Teental_5233f93f-4f1c-4ba1-9d3f-3d47a5f81d2e.wav,20_century_baithak_series,Kesarbai kerkar,30:29,196.416137695,Raga Malkauns,30,1829,121,22
+./wave/Raga_Puriya_Dhanashree_f4ca8526-f987-4ff8-a6a4-63459ea698ae.wav,Kula_sampada,Gopal Mishra,20:42,99.8114471436,Raag Puria Dhanashri,30,1242,82,0
+./wave/Raga_Shuddh_Sarang_43688da7-80e9-4814-b486-b01534a6ed44.wav,Genius_of Basavraj_rajguru,Basavraj Raguru,15:31,168.983596802,Raag Shudh sarang,30,931,62,24
+./wave/Deshi.wav,,,,208.115829468,,30,,,
+Brahma_Shiva_Hari_19b66d55-98b3-4157-b680-6a0f17fce925.mp3,Bandish_vol_1,Veena Sahasrabuddhe,4:32,138.806427002,Raag Hamsadhwani,30,272,18,20
+Jabse_Laagi_Lagan_b142b865-8995-4ce5-aa98-4e0fc7d99d94.mp3,Bandish_vol_1,Veena Sahasrabuddhe,4:2,108.232948303,Raag Hamsadhwani,30,242,16,20
+Sakal_Dukh_Haran_and_Viharati_Brahmanandani_2331050f-b7cf-46d5-a700-c7503539d7c5.mp3,First_Milestone,Veena Sahasrabuddhe,19:22,120.112922668,Raag Hamsadhwani,30,1162,77,20

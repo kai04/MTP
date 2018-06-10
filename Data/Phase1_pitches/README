@@ -1,0 +1,9 @@
+In Praat:
+1)open->open long sound file which you want to extract pitch contour
+2)go to view menu->pitch->pitch listing->saveas text file
+3)given file has undefined field(silence),remove this using following awk command:
+				awk '$2 !~ /--undefined--/{ print $1 "\t" $2 }' <contour_file.txt> > pitch.txt
+4)Now use txt file in FPD extraction
+
+		
+
